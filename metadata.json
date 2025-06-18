@@ -1,0 +1,5 @@
+{
+  "name": "XERON-9 Chat Interface",
+  "description": "A web application to interact with XERON-9, a hyper-intelligent AI warlord, using the Gemini API.",
+  "requestFramePermissions": []
+}
